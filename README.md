@@ -5,7 +5,7 @@ Task Management is simple application that showcases tasks based on priority and
 
 ## Setting up the app in a new environment
 
-## Requirements
+### Requirements
 
 - [PHP Version 8.2](https://www.apachefriends.org/).
 - [Composer] (https://getcomposer.org/download/).
